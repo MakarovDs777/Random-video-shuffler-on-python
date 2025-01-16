@@ -9,6 +9,5 @@
 
 Пример реализации программы
 
-
 https://github.com/user-attachments/assets/ce5485d7-2600-4ad7-a09a-90d357c10bca
 
